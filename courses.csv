@@ -1,21 +1,21 @@
 course_id,course_name,students_enrolled
-1,Artificial Intelligence,40
-2,Machine Learning,37
-3,Big Data Technologies,33
-4,Database Systems-1,40
-5,Database Systems-2,37
-6,Convex Optimisation,41
-7,Parallel Processing,51
-8,Software Engineering,48
-9,Systems Analysis,41
-10,Algorithms,31
-11,Advanced Algorithms,34
-12,Evolutionary Algorithms,36
-13,Advanced Machine Learning,43
-14,Statistics,60
-15,Mathematics,25
-16,Operations Research,39
-17,Data Communication,59
-18,Internet Technology,43
-19,Computer Vision,57
+1,Artificial Intelligence,47
+2,Machine Learning,43
+3,Big Data Technologies,38
+4,Database Systems-1,46
+5,Database Systems-2,41
+6,Convex Optimisation,48
+7,Parallel Processing,60
+8,Software Engineering,53
+9,Systems Analysis,47
+10,Algorithms,37
+11,Advanced Algorithms,37
+12,Evolutionary Algorithms,49
+13,Advanced Machine Learning,54
+14,Statistics,62
+15,Mathematics,29
+16,Operations Research,44
+17,Data Communication,63
+18,Internet Technology,48
+19,Computer Vision,58
 20,Information Systems,46
