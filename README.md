@@ -1,7 +1,9 @@
 # A project fulfilling the requirements of AI420: Evolutionary Algorithms
 ## Project Title: [2] Exam Timetabling Optimization using Genetic Algorithms
 
-The purpose of this project was to independently compare different types of initialisation, crossover, mutation and survivor/parent selection, as well as observe the effects of diversity preservation methods (in our case, Shared Fitness) 
+The purpose of this project was to independently compare different types of initialisation, crossover, mutation and survivor/parent selection, as well as observe the effects of diversity preservation methods (in our case, Shared Fitness). 
+
+Our findings were documented in the Documentation as well as both screenshots in the repository. 
 
 The following GA functions were used:
 
